@@ -1,1 +1,1 @@
-First developer - Klimenko V. A.
+First developer Klimenko V. A.
